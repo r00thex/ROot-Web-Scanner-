@@ -1,0 +1,9 @@
+requests
+bs4
+colorama
+preferredsoundplayer
+PySocks
+beautifulsoup4
+dulwich
+rich
+colored
